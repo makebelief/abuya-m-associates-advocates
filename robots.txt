@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abuya-m-associates-advocates.vercel.app/sitemap.xml
